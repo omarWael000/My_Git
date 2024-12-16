@@ -3,7 +3,7 @@ name : Github Action
 on : push
 
 jobs :
-  Jop1
+  Jop1 :
     runs-on : ubuntu-latest
     steps:
     - name : print event 
