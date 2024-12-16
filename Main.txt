@@ -2,7 +2,7 @@ int main()
 {
 1
 2
-3 cout <<"by temp branch";
+3 cout<<" by main branch";
 4
 5
 6
